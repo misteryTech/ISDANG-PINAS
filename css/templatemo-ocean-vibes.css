@@ -86,7 +86,7 @@ a {
 }
 
 #tm-video-container {
-    max-height: 400px;
+    max-height: 643px;
     overflow: hidden;
     background-color: #333;
     margin-bottom: 90px;
@@ -118,7 +118,7 @@ a {
     width: 200px;
     height: 200px;
     padding: 30px;
-    border: 1px solid #D2D3D4;
+    border: 5px solid #1d7fe0;
     color: #999; 
     box-sizing: border-box;
 }
